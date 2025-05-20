@@ -1,4 +1,4 @@
-# ToDoAPI
+# To-Do App API
 
 Bu proje, iş mülakatı için hem backend (Node.js & Express.js) hem de frontend (React.js) olarak birlikte hazırlanmıştır. Görev yönetim (ToDo) uygulamasının API ve kullanıcı arayüzü olarak iki ayrı repoda yer almaktadır. Backend tarafında veri saklama için dosya tabanlı (JSON) yöntem kullanılmıştır.
 
