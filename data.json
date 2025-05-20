@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "duty": "UNIDEV projesini yapmak",
+    "duty": "Proje",
     "description": "Full Stack Assigment",
     "completed": false
   },
   {
     "id": 1,
-    "duty": "UNIDEV",
-    "description": "UNIDEV"
+    "duty": "cd",
+    "description": "cd"
   }
 ]
