@@ -1,4 +1,4 @@
-# UniAPI
+# ToDoAPI
 
 Bu proje, Node.js ve Express.js kullanılarak geliştirilmiş basit bir görev yönetim (ToDo) API'sidir. Veri saklama için dosya tabanlı (JSON) yöntem kullanılmıştır. Proje, iş mülakatı kapsamında backend geliştirme yeteneklerini göstermek amacıyla hazırlanmıştır.
 
