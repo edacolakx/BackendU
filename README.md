@@ -1,6 +1,6 @@
 # ToDoAPI
 
-Bu proje, Node.js ve Express.js kullanılarak geliştirilmiş basit bir görev yönetim (ToDo) API'sidir. Veri saklama için dosya tabanlı (JSON) yöntem kullanılmıştır. Proje, iş mülakatı kapsamında backend geliştirme yeteneklerini göstermek amacıyla hazırlanmıştır.
+Bu proje, iş mülakatı için hem backend (Node.js & Express.js) hem de frontend (React.js) olarak birlikte hazırlanmıştır. Görev yönetim (ToDo) uygulamasının API ve kullanıcı arayüzü olarak iki ayrı repoda yer almaktadır. Backend tarafında veri saklama için dosya tabanlı (JSON) yöntem kullanılmıştır.
 
 ## Özellikler
 
